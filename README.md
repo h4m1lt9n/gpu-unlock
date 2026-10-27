@@ -1,4 +1,5 @@
 # GPU unlock 1.1.0
+Recursos recomendados
 
 Unlock FP/BF16 instruction issue rate on consumer Nvidia 30 series cards to their professional equivalents
 
